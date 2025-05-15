@@ -1,3 +1,15 @@
+# Simple Mini E-commerce App
+
+More Features can be added like:-
+Pagination ,search and filter can be added on product list screen.
+
+# Librares used
+- MMKV for local storage.
+- Redux toolkit for state management.
+- axio for API calls.
+- React native vector icons for icons.
+- React navigation for navigation.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
