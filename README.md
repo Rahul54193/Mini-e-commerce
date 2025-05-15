@@ -1,7 +1,6 @@
 # Simple Mini E-commerce App
 
-More Features can be added like:-
-Pagination ,search and filter can be added on product list screen.
+More features can be added, such as pagination, search, and filter functionality on the product list screen.
 
 # Librares used
 - MMKV for local storage.
